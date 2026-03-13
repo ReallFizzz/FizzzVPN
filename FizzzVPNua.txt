@@ -1,3 +1,4 @@
+#profile-title: FizzVPN — UA
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@95.163.182.206:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=abde0809&sni=api-maps.yandex.ru&type=tcp#🇺🇦FizzVPN — 1
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@95.163.182.206:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=abde0809&sni=api-maps.yandex.ru&type=tcp#🇺🇦FizzVPN — 2
 vless://a7a9f670-44c0-45a9-8047-69db0203c142@95.163.182.206:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=5bGFIWSo4vlrd9Tv1yFcpdpSjrjYYN20SOWHYfighHc&security=reality&sid=abde0809&sni=api-maps.yandex.ru&type=tcp#🇺🇦FizzVPN — 3
